@@ -1,6 +1,6 @@
 ## Olá! Me chamo João Pedro
 
-- ✔ Já estudei Python
+- ✔ Já estudei Python, mas pouca coisa
 - 👨‍🎓 Atualmente, estudo HTML, CSS e JavaScript
 - 📩 Contate-me no email:
 - 😄 Pronouns: Ele/Dele
