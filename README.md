@@ -2,7 +2,7 @@
 
 - ✔ Já estudei Python, mas pouca coisa
 - 👨‍🎓 Atualmente, estudo HTML, CSS e JavaScript
-- 📩 Contate-me no email:
+- 📩 Contate-me no email: jpedro.dev@proton.me
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
